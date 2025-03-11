@@ -8,10 +8,17 @@ project you agree to abide by its terms.
 
 Ensure your pull request adheres to the following guidelines:
 
-- Make sure you take care of this
-- And this as well
-- And don't forget to check this
-
+- Make an individual pull request for each suggestion.
+- Additions should be ordered in the alphabetical order in the section.
+- Link to the GitHub repo.
+- Keep descriptions short and simple, but descriptive.
+- Start the description with a capital and end with a full stop/period.
+- Start the description with either a verb or a noun phrase.
+- Don't add `-s` suffix if the description starts with a verb.
+- Check your spelling and grammar.
+- Make sure your text editor is set to remove trailing whitespace.
+- The pull request should have a useful title
+  
 Thank you for your suggestions!
 
 
