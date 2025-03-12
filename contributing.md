@@ -17,6 +17,7 @@ Ensure your pull request adheres to the following guidelines:
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title
+- Put description links at the end of the document.
 
 Thank you for your suggestions!
 
