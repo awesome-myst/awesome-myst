@@ -79,7 +79,7 @@ MyST (Markedly Structured Text) represents a transformative evolution in technic
 
 - [book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart): A quickstart repository for building custom CSS with [Tailwind].
 - [cookiecutter-jupyter-book](https://github.com/giswqs/cookiecutter-jupyter-book): [Cookiecutter] template for a simple [Jupyter Book].
-- [sphinx-intl-myst-template](https://github.com/user2084/sphinx-intl-myst-template): [Sphin] MyST-enabled project template to create HTML and PDF with localisation (sphinx-intl).
+- [sphinx-intl-myst-template](https://github.com/user2084/sphinx-intl-myst-template): [Sphinx] MyST-enabled project template to create HTML and PDF with localisation (sphinx-intl).
 
 ### Syntax Highlighters
 
