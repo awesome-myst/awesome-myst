@@ -43,7 +43,7 @@ in scientific communication and documentation engineering.
 
 ## Templates
 
-- [MyST Templates GitHub Organization](https://github.com/myst-templates/templates): LaTeX/Word templates for academic publishing
+- [MyST Templates GitHub Organization](https://github.com/myst-templates/templates): LaTeX/Word templates for academic publishing.
 - [Jupyter Book Myst Theme](https://github.com/jupyter-book/myst-theme): Packages for creating MyST websites themes using React and Remix.
 - [Physical Review
   Journals](https://github.com/myst-templates/physical_review_journals): A
