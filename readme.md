@@ -1,4 +1,4 @@
-# 😎 Awesome MyST [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# 😎 Awesome MyST 🌫️ [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list for MyST (Markedly Structured Text) awesomeness.
 
