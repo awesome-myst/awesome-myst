@@ -10,6 +10,15 @@ MyST (Markedly Structured Text) represents a transformative evolution in technic
   - [Official Docs](#official-docs)
   - [External Docs](#external-docs)
 - [Templates](#templates)
+- [Tools](#tools)
+  - [Converters](#converters)
+  - [Documentation System Integrations](#documentation-system-integrations)
+  - [Formatters](#formatters)
+  - [Miscellaneuous](#miscellaneuous)
+  - [Starters](#starters)
+  - [Syntax Highlighters](#syntax-highlighters)
+- [Contribute](#contribute)
+- [License](#license)
 
 ## Docs
 
