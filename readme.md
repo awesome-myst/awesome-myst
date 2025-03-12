@@ -2,7 +2,11 @@
 
 > A curated list for MyST (Markedly Structured Text) awesomeness.
 
-MyST (Markedly Structured Text) represents a transformative evolution in technical documentation, combining Markdown's simplicity with reStructuredText's structural power through its Sphinx integration. This curated list provides researchers, developers, and technical writers with essential resources for mastering MyST's capabilities in scientific communication and documentation engineering.
+[MyST](https://mystmd.org) (Markedly Structured Text) is an ecosystem of
+open-source, community-driven tools designed to revolutionize scientific
+communication. This curated list provides researchers, developers, and
+technical writers with essential resources for mastering MyST's capabilities
+in scientific communication and documentation engineering.
 
 ## Contents
 
