@@ -14,11 +14,10 @@ Ensure your pull request adheres to the following guidelines:
 - Keep descriptions short and simple, but descriptive.
 - Start the description with a capital and end with a full stop/period.
 - Start the description with either a verb or a noun phrase.
-- Don't add `-s` suffix if the description starts with a verb.
 - Check your spelling and grammar.
 - Make sure your text editor is set to remove trailing whitespace.
 - The pull request should have a useful title
-  
+
 Thank you for your suggestions!
 
 
