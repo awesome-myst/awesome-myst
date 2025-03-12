@@ -54,12 +54,12 @@ in scientific communication and documentation engineering.
 
 ### Converters
 
-- [rst-to-myst](https://github.com/executablebooks/rst-to-myst): Convert [ReStructuredText] to MyST Markdown.
-- [mystyc](https://github.com/astrojuanlu/mystyc): Online ReStructuredText to MyST conversion.
-- [sphinx-tomyst](https://github.com/executablebooks/sphinx-tomyst): A [Sphinx] translator for producing MyST syntax files.
-- [myst-react](https://github.com/executablebooks/myst-react): A web-based UI for rendering MyST Markdown.
 - [latex-to-myst](https://github.com/TK-21st/latex-to-myst): LaTeX to MyST parser.
+- [myst-react](https://github.com/executablebooks/myst-react): A web-based UI for rendering MyST Markdown.
+- [mystyc](https://github.com/astrojuanlu/mystyc): Online ReStructuredText to MyST conversion.
 - [Rd2rst](https://github.com/gagolews/Rd2rst): Convert an R package's documentation to MyST or [ReStructuredText].
+- [rst-to-myst](https://github.com/executablebooks/rst-to-myst): Convert [ReStructuredText] to MyST Markdown.
+- [sphinx-tomyst](https://github.com/executablebooks/sphinx-tomyst): A [Sphinx] translator for producing MyST syntax files.
 
 ### Documentation System Integrations
 
