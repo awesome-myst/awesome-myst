@@ -99,14 +99,15 @@ Contributions welcome! Read the [contribution guidelines](contributing.md) first
 This list is under the [Creative Commons Attribution-ShareAlike 3.0 Unported](https://github.com/awesome-selfhosted/awesome-selfhosted/blob/master/LICENSE) License.
 Terms of the license are summarized [here](https://creativecommons.org/licenses/by-sa/3.0/).
 
-[Visual Studio Code]: https://github.com/microsoft/vscode
-[Language Server Protocol]: https://en.wikipedia.org/wiki/Language_Server_Protocol
-[Pelican]: https://github.com/getpelican/pelican
-[Mdformat]: https://github.com/hukkin/mdformat
 [Cookiecutter]: https://github.com/cookiecutter/cookiecutter
-[ReStructuredText]: https://docutils.sourceforge.io/rst.html
+[Mdformat]: https://github.com/hukkin/mdformat
+[Fresh]: https://fresh.deno.dev/
 [Jupyter Lab]: https://github.com/jupyterlab/jupyterlab
 [Jupyter Book]: https://github.com/jupyter-book/jupyter-book
 [Jupyter]: https://github.com/jupyter
+[Language Server Protocol]: https://en.wikipedia.org/wiki/Language_Server_Protocol
+[Pelican]: https://github.com/getpelican/pelican
+[ReStructuredText]: https://docutils.sourceforge.io/rst.html
+[Sphinx]: https://github.com/sphinx-doc/sphinx
 [Tailwind]: https://tailwindcss.com/
-[Fresh]: https://fresh.deno.dev/
+[Visual Studio Code]: https://github.com/microsoft/vscode
