@@ -31,6 +31,7 @@ in scientific communication and documentation engineering.
 - [MyST Enhancement Proposals](https://github.com/jupyter-book/myst-enhancement-proposals): MyST Enhancement Proposals (MEPs).
 - [MyST Markdown Guide](https://mystmd.org/guide): The official guide for MyST Markdown.
 - [MyST Python Parser Documentation](https://myst-parser.readthedocs.io/): The official documentation for MyST Python Parser.
+- [MyST Specification](https://mystmd.org/spec): The MyST markup language, a superset of CommonMark Markdown, the MyST abstract syntax tree (AST), and the tests suites.
 - [Quickstart Syntax Primer](https://mystmd.org/guide/quickstart-myst-markdown): Tutorial covering basic MyST syntax.
 
 ### External Docs
