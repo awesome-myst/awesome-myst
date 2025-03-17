@@ -46,10 +46,7 @@ in scientific communication and documentation engineering.
 
 - [MyST Templates GitHub Organization](https://github.com/myst-templates/templates): LaTeX/Word templates for academic publishing.
 - [Jupyter Book Myst Theme](https://github.com/jupyter-book/myst-theme): Packages for creating MyST websites themes using React and Remix.
-- [Physical Review
-  Journals](https://github.com/myst-templates/physical_review_journals): A
-  template for easily creating pretty, nicely formatted Physical Review
-  Journal articles.
+- [Physical Review Journals](https://github.com/myst-templates/physical_review_journals): A template for easily creating pretty, nicely formatted Physical Review Journal articles.
 
 ## Tools
 
@@ -64,7 +61,9 @@ in scientific communication and documentation engineering.
 
 ### Documentation System Integrations
 
+- [Curvenote](https://curvenote.com/for/writing): A collaborative writing and publishing tool for scientists & researchers.
 - [fresh_blog_plugin](https://github.com/nrako/fresh_blog_plugin): A 🍋 [Fresh] plugin designed to add blog functionalities with simple markdown files powered by MyST.
+- [Jupyter Book](https://jupyterbook.org/): Build beautiful, publication-quality books and documents from computational content.
 - [jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst): Use MyST Markdown directly in [Jupyter Lab].
 - [myst-nb-json](https://github.com/aeisenbarth/myst-nb-json): A MIME-type plugin for rendering JSON output from [Jupyter] notebooks to HTML.
 - [myst-reader](https://github.com/ashwinvis/myst-reader): MyST Reader is a [Pelican] plugin that processes Markdown content via MyST parser.
@@ -73,6 +72,7 @@ in scientific communication and documentation engineering.
 ### Formatters
 
 - [mdformat-myst](https://github.com/executablebooks/mdformat-myst): [Mdformat] plugin for MyST compatibility.
+- [jtex](https://mystmd.org/jtex): jtex is a command line tool (CLI) for rendering LaTeX LaTeX documents from Jinja-style templates.
 
 ### Miscellaneuous
 
@@ -80,6 +80,7 @@ in scientific communication and documentation engineering.
 - [Lorem-Mystum](https://github.com/MaciejWas/Lorem-Mystum): A lorem ipsum generator for the MyST flavour of markdown.
 - [myst-libre](https://github.com/neurolibre/myst-libre): Streamline building MyST articles in docker containers.
 - [myst-lsp](https://github.com/chrisjsewell/myst-lsp): A [Language Server Protocol] provider for MyST Markdown.
+
 ### Starters
 
 - [book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart): A quickstart repository for building custom CSS with [Tailwind].
