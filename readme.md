@@ -65,6 +65,7 @@ in scientific communication and documentation engineering.
 - [fresh_blog_plugin](https://github.com/nrako/fresh_blog_plugin): A 🍋 [Fresh] plugin designed to add blog functionalities with simple markdown files powered by MyST.
 - [Jupyter Book](https://jupyterbook.org/): Build beautiful, publication-quality books and documents from computational content.
 - [jupyterlab-myst](https://github.com/jupyter-book/jupyterlab-myst): Use MyST Markdown directly in [Jupyter Lab].
+- [myst-nb](https://github.com/executablebooks/myst-nb): A collection of tools for working with Jupyter Notebooks in Sphinx.
 - [myst-nb-json](https://github.com/aeisenbarth/myst-nb-json): A MIME-type plugin for rendering JSON output from [Jupyter] notebooks to HTML.
 - [myst-reader](https://github.com/ashwinvis/myst-reader): MyST Reader is a [Pelican] plugin that processes Markdown content via MyST parser.
 - [thebe](https://github.com/jupyter-book/thebe): Turn static HTML pages into live documents with [Jupyter] kernels.
