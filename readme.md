@@ -78,7 +78,8 @@ in scientific communication and documentation engineering.
 
 ### Miscellaneuous
 
-- [The Executable Books Project](https://executablebooks.org/): An international collaboration to build open source tools that facilitate publishing computational narratives using the Jupyter ecosystem. 
+- [The Executable Books Project](https://executablebooks.org/): An international collaboration to build open source tools that support MyST in the Python Sphinx tools.
+- [JupyterBook Blog](https://blog.jupyterbook.org/): Updates from the Jupyter Book team on the MyST-based Jupyter Book 2.
 - [mystmd](https://github.com/jupyter-book/mystmd): Command line tools for working with MyST Markdown.
 - [Lorem-Mystum](https://github.com/MaciejWas/Lorem-Mystum): A lorem ipsum generator for the MyST flavour of markdown.
 - [myst-libre](https://github.com/neurolibre/myst-libre): Streamline building MyST articles in docker containers.
