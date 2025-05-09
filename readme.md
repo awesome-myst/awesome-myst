@@ -87,6 +87,10 @@ in scientific communication and documentation engineering.
 - [myst-libre](https://github.com/neurolibre/myst-libre): Streamline building MyST articles in docker containers.
 - [myst-lsp](https://github.com/chrisjsewell/myst-lsp): A [Language Server Protocol] provider for MyST Markdown.
 
+### Plugins
+
+- [myst-listing-plugin](https://github.com/ryanlovett/myst-listing-plugin): This plugin provides a flexible listing directive that allows you to display lists or grids of documents (such as blog posts, news, or updates) by reading markdown files from directories or matching glob patterns.
+
 ### Starters
 
 - [book-theme-tailwind-quickstart](https://github.com/jupyter-book/book-theme-tailwind-quickstart): A quickstart repository for building custom CSS with [Tailwind].
